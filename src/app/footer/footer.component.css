@@ -1,0 +1,14 @@
+footer{
+    background-color: #a88725;
+    color: black;
+    height: 10em;
+    /* margin-top: 36%; */
+    text-align: center; 
+}
+footer .icon{
+    font-size:30px;    
+ }
+ footer a{
+     color: black;
+     padding: 5px;
+ }

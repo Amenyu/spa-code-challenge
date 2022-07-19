@@ -1,0 +1,18 @@
+.navbar{
+    background-color: black;   
+}
+a{
+    color: rgb(74, 90, 103);
+}
+a:hover{
+    color: white;
+}
+a:active{
+     color: white;
+}
+
+img{
+    height:40px;
+    width:100px;
+    border-radius: 5px;
+}
